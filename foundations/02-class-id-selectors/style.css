@@ -1,0 +1,29 @@
+.red {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.small {
+    font-size: medium;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#green-bg {
+    background-color: rgb(110, 242, 110);
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
